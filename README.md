@@ -1,6 +1,6 @@
 # BTP_1_project_ML_in_Bio_Data
 
-Machine Learning on Biological Data — BTP project by Animesh Kumar (22CS30009).
+Machine Learning on Biological Data — BTP project by Animesh Kumar.
 
 Predicting **siRNA silencing efficacy** from sequence data using a heterogeneous graph neural network (HinSAGE, via StellarGraph) and gradient boosting (XGBoost).
 
